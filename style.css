@@ -1,0 +1,41 @@
+#buttons {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 15px;
+    margin-right: 20px;
+    
+}
+
+#input {
+    text-align: center;
+    margin-top: 10px;
+    
+    
+    
+}
+#ipt {
+    padding: 10px;
+    border: solid black 2px;
+    margin-top: 15px;
+    width: 200px;
+
+}
+
+.btn {
+    padding: 10px;
+   background-color: bisque;
+   border-radius: 10%;
+   margin: 10px;
+}
+
+#list {
+    text-align: center;
+    list-style-position:inside;
+    margin-right: 70px;
+    
+}
+
+#text-container {
+    text-align: center;
+
+}
